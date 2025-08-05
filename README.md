@@ -135,6 +135,7 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
 </table>
 
 
+
 <h3 align="left" style="font-size: 28px;">📊 GitHub Stats:</h3>
 <div style="display: flex; flex-direction: column; justify-content: flex-start; background-color:#1e1e2f; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   
@@ -143,17 +144,17 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
     <!-- Row 1: GitHub Streak Stats and Top Languages -->
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false" alt="GitHub Streak Stats" style="width: 400px;"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ferhan&theme=blue_navy&hide_border=false" alt="GitHub Streak Stats" style="width: 400px;"/>
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-jamil-ahmed&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 400px;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ferhan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 400px;"/>
       </td>
     </tr>
     <!-- Row 2: GitHub Activity Overview -->
     <tr>
       <td align="center" style="padding: 10px;">
-        <a href="https://github.com/xyz">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-jamil-ahmed&theme=radical" alt="Jamil's GitHub Activity" style="border-radius: 10px; width: 400px;"/>
+        <a href="https://github.com/muhammad-ferhan">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-ferhan&theme=radical" alt="Ferhan's GitHub Activity" style="border-radius: 10px; width: 400px;"/>
         </a>
       </td>
     </tr>
@@ -162,11 +163,9 @@ I'm a Senior JavaScript Developer with a passion for crafting high-performance w
 
 </div>
 
-
 ---
-[![](https://visitcount.itsvg.in/api?id=muhammad-jamil-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=muhammad-ferhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Discover My Latest Projects
 
