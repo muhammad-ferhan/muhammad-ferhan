@@ -5,14 +5,16 @@
 
 <h2 align="center">Hi 👋, I'm Muhammad Ferhan</h2>
 
+
 <h3 align="left" style="font-size: 24px;">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/gfgf" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/ferhan-dev/" target="_blank" style="text-decoration: none;">
     <span style="display: inline-block; background-color: #0a66c2; padding: 6px; border-radius: 6px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="24" width="24" style="vertical-align: middle;" />
     </span>
   </a>
 </p>
+
 
 ### 💻 About Me
 
